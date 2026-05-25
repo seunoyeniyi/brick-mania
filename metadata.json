@@ -1,0 +1,6 @@
+{
+  "name": "Brick Mania",
+  "description": "A high-performance brick-breaker game with retro visuals, multi-ball physics, power-up systems, and custom levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
